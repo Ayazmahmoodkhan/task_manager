@@ -1,0 +1,32 @@
+body {
+  background-color: #f8f9fa;
+}
+
+h1 {
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: #007bff;
+}
+
+.form-control,
+.form-select {
+  max-width: 400px;
+}
+
+.nav-link {
+  color: #007bff;
+}
+
+.nav-link.active {
+  background-color: #007bff;
+  color: white;
+}
+.form-control {
+  width: auto;
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.btn {
+  margin-right: 5px;
+}
